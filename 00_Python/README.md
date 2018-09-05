@@ -2,10 +2,31 @@
 
 ## Installation and Setup
 
-We will use `python 3`. To install follow the following commands:
+We will use `python 3`. 
 
-1. For windows
-2. For Linux
+
+Run the following command in command prompt to check if Python 3 is already installed :
+
+```shell
+python3
+```
+
+You should see the following:
+Python 3.6.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)
+
+If you don't,  lets install python:
+Download the installer from the given link:
+[https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe](https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe)
+
+Enable the “Add Python 3.6 to PATH” option and then click “Install Now.”
+
+Run the command python -V to check the version
+
+```shell
+python -v
+```
+
+
 
 ## Variables and its types
 
